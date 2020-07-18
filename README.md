@@ -2,7 +2,8 @@
 
 # SIMPLE AR
 
-Simple AR is a Augment reality app for android.  interactive experience of a real-world environment where the objects that reside in the real world through camera.  
+Simple AR is a Augment reality app for android.  Interactive experience of a real-world environment where the objects that reside in the real world through camera.  
+Note:- Use either a new note of 500rs or use the image of 500rs provided within.
 
 ## Installation
 
