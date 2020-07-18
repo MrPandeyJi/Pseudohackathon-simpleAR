@@ -6,11 +6,11 @@ Simple AR is a Augment reality app for android.  interactive experience of a rea
 
 ## Installation
 
-Installation is complete simple with APK file.
+Clone or Download this Repository. Open With Unity.  Android SDK is required.
 
 
 
-## Future update 
+## Future Goals
 * Detection of plane will be included. 
 * We can use it for education purposes like examine the model
 (Models like skeleton provided in future updates) 
